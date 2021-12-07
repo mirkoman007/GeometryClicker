@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT shapes (shape+)>
+<!ELEMENT shape (name,shape_value,trap_value)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT shape_value (#PCDATA)>
+<!ELEMENT trap_value (#PCDATA)>
+

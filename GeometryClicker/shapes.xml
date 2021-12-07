@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE shapes SYSTEM "shapes.dtd">
+<shapes>
+<shape>
+<name>smallSquare</name>
+<shape_value>1</shape_value>
+<trap_value>0</trap_value>
+</shape>
+<shape>
+<name>mediumSquare</name>
+<shape_value>1</shape_value>
+<trap_value>2</trap_value>
+</shape>
+<shape>
+<name>bigSquare</name>
+<shape_value>1</shape_value>
+<trap_value>0</trap_value>
+</shape>
+<shape>
+<name>smallCircle</name>
+<shape_value>1</shape_value>
+<trap_value>1</trap_value>
+</shape>
+<shape>
+<name>mediumCircle</name>
+<shape_value>1</shape_value>
+<trap_value>0</trap_value>
+</shape>
+<shape>
+<name>bigCircle</name>
+<shape_value>1</shape_value>
+<trap_value>10</trap_value>
+</shape>
+</shapes>
