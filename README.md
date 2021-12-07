@@ -1,2 +1,2 @@
-# GeometryClickerGame
+# Geometry clicker - JavaFX game
  
