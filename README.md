@@ -1,4 +1,4 @@
-# Geometry clicker - JavaFX game
+# Geometry clicker - JavaFX game (single-player & multiplayer)
  
 Features:
 - Serialization
@@ -8,3 +8,5 @@ Features:
 - JNDI
 - RMI
 - threads
+
+![preview image](/preview.png)
